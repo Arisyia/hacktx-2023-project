@@ -63,3 +63,17 @@
   cursor: default;
 }
 
+.result-note {
+  background-color: #fffbed;
+  width: 50%;
+  height: 20%;
+  position: relative;
+}
+
+.give-result {
+  background-color: darkgreen;
+  margin-top: -30px;
+  width: 50%;
+  height: 30%;
+  
+}
